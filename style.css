@@ -1,0 +1,55 @@
+body{
+    background-image: url(./6289f89c1971ae10ce01b98b_green-blue-gradient.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.maincontainer{
+margin-top: 200px;    
+}
+.container{
+    width: 460px;
+    padding: 43px;
+    text-align:center ;
+    background-color: #ffffff;
+    margin-left: 33%;
+    margin-top: 5px;
+    
+}
+.inputcontainer{
+width: 370px;
+padding: 8px;
+
+outline: none;
+font-size: 19px;
+}
+button{
+    cursor: pointer;
+    width: 31px;
+    height: 31px;
+    /* background-color: rgb( 4,29 , 29); */
+    background-color: #800080;
+    color: white;
+    border-radius: 2px;
+    font-size: 19px;
+    border: none;
+    outline: none;
+}
+.txt ul{
+    position: relative;
+    background-color: #e7e2e2;
+    color: black;
+width: 270px;
+    height:31px ;
+text-align: left;
+padding: 8px;
+}
+.txt ul i{
+    position: absolute;
+    right: -35px;
+    cursor: pointer;
+background-color: red;
+color: white;
+width:31px ;
+height:28px ;
+text-align: center;
+}
